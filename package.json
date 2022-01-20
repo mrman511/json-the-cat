@@ -1,0 +1,22 @@
+{
+  "name": "json-the-cat",
+  "version": "1.0.0",
+  "description": "\"practice with API\"",
+  "main": "breedFetcher.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrman511/json-the-cat.git"
+  },
+  "author": "Paul Bodner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrman511/json-the-cat/issues"
+  },
+  "homepage": "https://github.com/mrman511/json-the-cat#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
